@@ -71,7 +71,7 @@ class NinjaCard extends StatelessWidget {
                   "narutouzumaki@konoha.com",
                   style: TextStyle(
                     color: Colors.grey[400],
-                    letterSpacing: 1,
+                    letterSpacing: 1.2,
                   ),
                 )
               ],
